@@ -12,7 +12,6 @@ client = commands.Bot(command_prefix='!')
 async def on_ready():
     print('We have logged in as {0.user}'.format(client))
 
-# PGR COOP EVENT SCHEDULE INFO
 @client.command()
 async def coop(ctx):
     importlib.reload(pgr_coop)
