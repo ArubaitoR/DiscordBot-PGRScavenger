@@ -2,7 +2,10 @@
 # 08:00am - 12:00 pm
 # 04:00pm - 08:00pm
 # 12:00am - 04:00am
-import time
+import os, time
+
+os.environ['TZ'] = 'Asia/Jakarta'
+time.tzset()
 
 def isNowInTimePeriod(startTime, endTime, nowTime):
     if startTime < endTime:
