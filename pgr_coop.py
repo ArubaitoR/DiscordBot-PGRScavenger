@@ -3,6 +3,11 @@
 # 04:00pm - 08:00pm
 # 12:00am - 04:00am
 import time
+from datetime import datetime
+import pytz
+
+tz_city = pytz.timezone('Asia/Jakarta')
+datetime_city = datetime.now(tz_city)
 
 def isNowInTimePeriod(startTime, endTime, nowTime):
     if startTime < endTime:
@@ -12,7 +17,7 @@ def isNowInTimePeriod(startTime, endTime, nowTime):
 
 
 #Jam Sekarang
-timeNow = time.strftime("%H:%M", time.localtime())
+timeNow = datetime_city.strftime("%H:%M")
 
 #Jadwal Pertama
 timeStart1 = '08:00'
