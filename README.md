@@ -1,7 +1,7 @@
 # Personal Discord Bot
 Discord bot that are created to cater my personal needs for a private server.
 
-<img src="https://media.discordapp.net/attachments/999981315443134505/1000957026110799942/unknown.png" width="50%" height="50%">
+<img src="https://cdn.discordapp.com/attachments/999981315443134505/1001124909117870120/unknown.png" width="50%" height="50%">
 
 
 # Commands
@@ -30,3 +30,7 @@ There are several command that are available, planning to add more.
 * `!pengguna` Search for user entry and information in AniList.
 
 <img src="https://cdn.discordapp.com/attachments/999981315443134505/1000957506966794310/unknown.png" width="50%" height="50%">
+
+* `!ingetin` Ask the bot to remind you of a certain task in specified time.
+
+<img src="https://cdn.discordapp.com/attachments/999981315443134505/1001125441014345758/unknown.png" width="50%" height="50%">
