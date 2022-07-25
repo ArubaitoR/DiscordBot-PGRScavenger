@@ -14,4 +14,5 @@ def helpMessage():
     embed.add_field(name='!cahyo <teks>', value="Membuat teks *bubble speech* dengan foto cahyo.", inline=False)
     embed.add_field(name='!anime <judul>', value="Mencari laman informasi dari judul anime yang diketik.", inline=False)
     embed.add_field(name='!pengguna <nama>', value="Mencari laman informasi anilist pengguna.", inline=False)
+    embed.add_field(name='!ingetin <waktu> <kegiatan>', value="Bot akan mengingatkan sesuai dengan waktu yang ditetapkan. (d/m/j/h)", inline=False)
     return embed

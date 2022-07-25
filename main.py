@@ -198,4 +198,20 @@ async def pengguna(ctx, *, userName):
     else:
         await ctx.send(embed=userError(userName))
 
+@client.command(aliases=['INGETIN', 'i'])
+async def ingetin(ctx, time, *, task):
+    converted_time = convert(time)
+
+    if converted_time == -1:
+        await ctx.send("Waktu yang kamu masukkan salah!")
+        return
+
+    if converted_time == -2:
+        await ctx.send("Waktu harus bilangan bulat")
+        return
+    
+    await ctx.send(f"Nanti aku akan ingatkan kamu soal **{task}** dalam waktu **{time}**")
+    await asyncio.sleep(converted_time)
+    await ctx.send(f"{ctx.author.mention} kamu tadi minta diingetin buat **{task}**")
+
 client.run(TOKEN)
