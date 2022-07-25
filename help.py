@@ -7,7 +7,7 @@ def helpMessage():
         colour=discord.Colour.orange()
     )
     embed.set_author(name='VoxB - Bot Utilitas Personal VoxP')
-    embed.add_field(name='!coop', value="Menampilkan info event game PGR.", inline=False)
+    embed.add_field(name='!coop', value="Menampilkan info event game PGR, menggunakan Asia/Jakarta sebagai basis zona waktu.", inline=False)
     embed.add_field(name='!foto <@pengguna>', value="Menampilkan foto profil pengguna", inline=False)
     embed.add_field(name='!acak', value="Membuat post undian secara interaktif untuk pemilihan/giveaway", inline=False)
     embed.add_field(name='!alif <teks>', value="Membuat teks *bubble speech* dengan foto alif.", inline=False)
