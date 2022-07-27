@@ -13,9 +13,11 @@ import textwrap
 from PIL import Image, ImageFont, ImageDraw
 from help import helpMessage
 from cariAnime.searchUser import *
+# from alive import keep_alive
 
 #change token
 TOKEN = 'TOKEN'
+# my_secret = os.environ['TOKEN']
 
 client = commands.Bot(command_prefix='!')
 
@@ -215,3 +217,5 @@ async def ingetin(ctx, time, *, task):
     await ctx.send(f"{ctx.author.mention} kamu tadi minta diingetin buat **{task}**")
 
 client.run(TOKEN)
+# keep_alive()
+# client.run(my_secret)
