@@ -1,8 +1,7 @@
 # Personal Discord Bot
 Discord bot that are created to cater my personal needs for a private server.
 
-<img src="https://cdn.discordapp.com/attachments/999981315443134505/1001124909117870120/unknown.png" width="50%" height="50%">
-
+![2024-03-12_18-56](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/24a41931-b4a9-4d37-89e5-641d082fe3a3)
 
 # Commands
 There are several command that are available, planning to add more.
