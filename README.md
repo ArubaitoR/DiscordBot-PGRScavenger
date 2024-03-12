@@ -8,28 +8,29 @@ There are several command that are available, planning to add more.
 * `!bantuan` Display available command list.
 * `!coop` Display schedule for in-game event (Punishing: Gray Raven) availability. Timezone is set to Asia/Jakarta.
 
-<img src="https://cdn.discordapp.com/attachments/999981315443134505/1000956907508465694/unknown.png" width="50%" height="50%">
+![2024-03-12_18-57](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/da737876-c983-4af5-acfc-a3ca93bc7b70)
 
 * `!foto` Display discord profile picture of a mentioned user.
 
-<img src="https://cdn.discordapp.com/attachments/999981315443134505/1000957126090436618/unknown.png" width="50%" height="50%">
+![2024-03-12_19-00](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/229fdb45-3baa-401e-9575-ca4659d3cd79)
 
 * `!acak` Interactively create a post with reaction to select random participant.
 
-<img src="https://cdn.discordapp.com/attachments/999981315443134505/1000957401354215544/unknown.png" width="50%" height="50%">
+![2024-03-12_19-02](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/58ecc5ce-a77f-4b3b-97d6-5fff326ecb23)
 
 * `!alif` & `!cahyo` Generate text on a friend image with text to speech bubble.
 
-<img src="https://cdn.discordapp.com/attachments/999981315443134505/1001063197001924668/unknown.png" width="50%" height="50%">
+![2024-03-12_18-53](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/7d243f35-fae6-4420-b072-4adbee7730b8)
+![2024-03-12_18-54](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/3dd21768-1367-4b7a-8517-8ca696d5d075)
 
 * `!anime` Search for anime entry in AniList.
 
-<img src="https://cdn.discordapp.com/attachments/999981315443134505/1000957257632202832/unknown.png" width="50%" height="50%">
+![2024-03-12_19-06](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/55e8fb4f-652f-406f-9489-a2d682ebeec0)
 
 * `!pengguna` Search for user entry and information in AniList.
 
-<img src="https://cdn.discordapp.com/attachments/999981315443134505/1000957506966794310/unknown.png" width="50%" height="50%">
+![2024-03-12_19-06_1](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/fced371b-271a-44f5-9c46-1c3cbc8d7906)
 
 * `!ingetin` Ask the bot to remind you of a certain task in specified time.
 
-<img src="https://cdn.discordapp.com/attachments/999981315443134505/1001125441014345758/unknown.png" width="50%" height="50%">
+![2024-03-12_19-07](https://github.com/ArubaitoR/DiscordBot-PersonalUtility/assets/103828697/ce9e601b-1999-44c8-b13b-b625fa0055c7)
